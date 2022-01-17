@@ -81868,6 +81868,17 @@
         "social-token"
       ]
     }
+    {
+      "chainId": 101,
+      "address": "AaTRyiEFvmDJk3bXhuBv5iU76GtVJ1zrnLCRKAmEG7jD",
+      "symbol": "TMP",
+      "name": "The Mumbley Peg",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Tim1971m/Crypto/main/tmp%20token%20icon.jpg",
+      "tags": [
+        "social-token"
+      ]
+    }
   ],
   "version": {
     "major": 0,
